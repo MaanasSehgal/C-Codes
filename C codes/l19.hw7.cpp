@@ -1,0 +1,1 @@
+//Write a C program to find the common characters between two strings. Display the common characters in alphabetical order.

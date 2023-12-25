@@ -1,0 +1,1 @@
+//Write a C program to remove all duplicate characters from a given string. The resulting string should contain each character only once.
